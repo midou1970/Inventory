@@ -9,7 +9,6 @@ private:
 	string m_name;
 	int m_quntity;
 	double m_price;
-	bool sold;
 	Category &m_category;
 public:
 	string getName();

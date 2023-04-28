@@ -9,6 +9,7 @@ private:
 	string m_name;
 	int m_quntity;
 	double m_price;
+	double acount;
 	Category &m_category;
 public:
 	string getName();
